@@ -1,0 +1,9 @@
+remote_theme: daviddarnes/alembic@main
+plugins:
+- jekyll-remote-theme
+
+title: Pets Classification
+description: Pets Classification with Machine Learning using hf space api
+
+author:
+  name: Abdullah Mastu
